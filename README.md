@@ -20,7 +20,7 @@ run the program, type in your terminal the following command:
     ./rm
 
 tool usage, (how to use the program):
-usage:
+
 
         ./rm filename
 
