@@ -21,8 +21,11 @@ run the program, type in your terminal the following command:
 
 tool usage, (how to use the program):
 usage:
+
         ./rm filename
+
 or
+
         ./rm file1 file2 file3
 
 
